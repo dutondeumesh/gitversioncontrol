@@ -1,7 +1,7 @@
 <?php
  
 ignore_user_abort(true);
-set_time_limit(0); // disable the time limit for this script
+set_time_limit(13); // disable the time limit for this script
  
 $path = "/absolute_path_to_your_files/"; // change the path to fit your websites document structure
  

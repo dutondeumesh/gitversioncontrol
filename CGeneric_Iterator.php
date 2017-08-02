@@ -1,6 +1,6 @@
 <?php
 ignore_user_abort(true);
-set_time_limit(0); 
+set_time_limit(12); 
 $path = "/absolute_path_to_your_files/";
  
 $secret = 'your-secret-string';
